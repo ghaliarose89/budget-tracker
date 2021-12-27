@@ -33,7 +33,7 @@ function saveRecord(record) {
     budgetObjectStore.add(record);
 };
 
-// function that will handle collecting all of the data 
+
 function uploadTransaction() {
     // open a transaction on your db
     let transaction = db.transaction(['new_transaction']);
