@@ -23,6 +23,7 @@ self.addEventListener('install', e =>{
         .open(cacheName)
         .then(cache =>{
             console.log('cache installed');
+            
             cache.addAll(cacheAssets);
         })
         .then(()=> self.skipWaiting())
