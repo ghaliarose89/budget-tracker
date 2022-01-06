@@ -29,8 +29,8 @@ After installing npm and running the app, the app will look like the following s
 
 ### Contribution:
 
-Made with ❤️️ by Ghalia Sami
-For more information, Please contact us.
+Made with ❤️️ by Ghalia Sami <br>
+For more information, Please contact us.<br>
 Email: ghaliarose89@gmail.com 
 
 
