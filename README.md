@@ -30,7 +30,7 @@ After installing npm and running the app, the app will look like the following s
 ### Contribution:
 
 Made with ❤️️ by Ghalia Sami <br>
-For more information, Please contact us.<br>
+For more information, Please contact me.<br>
 Email: ghaliarose89@gmail.com 
 
 
